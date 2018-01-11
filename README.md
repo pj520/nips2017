@@ -54,6 +54,8 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 - **Learning State Representations**
 
   Yael Niv
+  
+  [Video](https://www.youtube.com/watch?v=FhOwFDGm0d4)
 
 - **On Bayesian Deep Learning and Deep Bayesian Learning**
 
@@ -85,7 +87,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   Neil D Lawrence
 
-  [Slides](http://inverseprobability.com/talks/lawrence-nips17/deep-probabilistic-modelling-with-gaussian-processes.html) · [Video](https://www.youtube.com/watch?v=i4jhOH7o3pk) · Code    
+  [Slides](http://inverseprobability.com/talks/lawrence-nips17/deep-probabilistic-modelling-with-gaussian-processes.html) · [Video](https://www.youtube.com/watch?v=RAiPlfohjJo) · Code    
 
 - **Fairness in Machine Learning**
 
@@ -115,7 +117,7 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
   Michael Bronstein · Joan Bruna · arthur szlam · Xavier Bresson · Yann LeCun
 
-  [Slides](https://www.dropbox.com/s/zdosxw3nc3f1p2r/NIPS-GDL.pdf) · [Video](https://www.youtube.com/watch?v=LvmjbXZyoP0) · Code
+  [Slides](http://geometricdeeplearning.com/slides/NIPS-GDL.pdf) · [Video](https://www.youtube.com/watch?v=LvmjbXZyoP0) · Code
   ​            
 ## Workshops
 
@@ -357,6 +359,126 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
 
     Michael James
 
+- ### [Machine Learning Challenges as a Research Tool](http://ciml.chalearn.org/ciml2017)
+
+  Isabelle Guyon · Evelyne Viegas · Sergio Escalera · Jacob D Abernethy
+
+  - [RAMP platform](https://drive.google.com/file/d/12CwwCtCLDkp92MurS1aEDXV8YcXJNGJH/view)
+
+    Balázs Kégl
+
+  - [Automatic evaluation of chatbots](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjU0YjZiMmM4ZDVhMTA1ZjA)
+
+    Varvara Logacheva (speaker) · Mikhail Burtsev
+
+  - [TrackML](https://drive.google.com/file/d/1ifBM6PCpIUFSnI_TBiBB5YeCx6Kguj1Q/view)
+
+    David Rousseau
+
+  - [Data science bowl](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjYxMzI1ZDY4ZWE4Yzc4NzQ)
+
+    Drew Farris
+
+  - [CrowdAI](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OmRlOWMwYmI5MGQ1NGNh)
+  
+    Mohanty Sharada
+
+  - Kaggle platform
+
+    Ben Hamner
+
+  - [Project Malmo, Minecraft](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OmZiYTAyYmY3NjhiOGQ0OA)
+
+    Katja Hofmann
+
+  - [Project Alloy](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjdiNzIwMWMwMWY5ZjlhMjY)
+
+    Laura Seaman
+
+  - [Education and public service](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjQ1NWM4ODNkNjQzMjgxNTQ)
+
+    Jonathan C. Stroud
+
+  - [AutoDL (Google challenge)](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjJiMTU0MTlmZjY5NGZiOGI)
+
+    Olivier Bousquet
+
+  - [Scoring rule markets](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjNlNWRlMDdjYTgwNDFkZTA)
+
+    Rafael Frongillo · Bo Waggoner
+
+  - [ENCODE-DREAM challenge](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjZjYzdiZGZkMWI1MjliNzk)
+    
+    Akshay Balsubramani
+
+  - [Codalab platform](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjVmY2U0NTk3M2RhYTRlZGY)
+    
+    Evelyne Viegas · Sergio Escalera · Isabelle Guyon
+
+- ### [Bayesian optimization for science and engineering](https://bayesopt.github.io/index.html)
+
+  Ruben Martinez-Cantin · José Miguel Hernández-Lobato · Javier Gonzalez
+
+  - Towards Safe Bayesian Optimization
+
+    Andreas Krause 
+
+  - Learning to learn without gradient descent by gradient descent
+
+    Yutian Chen
+
+  - [Scaling Bayesian Optimization in High Dimensions](https://bayesopt.github.io/slides/2017/bayesopt_2017_jegelka.pdf)
+
+    Stefanie Jegelka
+
+  - [Neuroadaptive Bayesian Optimization - Implications for Cognitive Sciences](https://bayesopt.github.io/slides/2017/Lorenz_NIPS_Workshop_2017.pdf)
+
+    Romy Lorenz
+
+  - [Knowledge Gradient Methods for Bayesian Optimization](https://bayesopt.github.io/slides/2017/BayesOptWorkshopFrazier.pdf)
+  
+    Peter Frazier 
+
+  - [Quantifying and reducing uncertainties on sets under Gaussian Process priors](https://bayesopt.github.io/slides/2017/NIPS_BOws_Ginsbourger_09_12_2017.pdf)
+
+    David Ginsbourger
+
+- ### [(Almost) 50 shades of Bayesian Learning: PAC-Bayesian trends and insights](https://bguedj.github.io/nips2017/50shadesbayesian.html)
+
+  Benjamin Guedj · Pascal Germain · Francis Bach
+
+  - Dimension-free PAC-Bayesian Bounds - [Part 1](https://bguedj.github.io/nips2017/pdf/catoni_nips2017_1.pdf) [Part 2](https://bguedj.github.io/nips2017/pdf/catoni_nips2017_2.pdf)
+
+    Olivier Catoni
+
+  - [A Tight Excess Risk Bound via a Unified PAC-Bayesian-Rademacher-Shtarkov-MDL Complexity](https://bguedj.github.io/nips2017/pdf/grunwald_nips2017.pdf)
+
+    Peter Grünwald
+
+  - [A Tutorial on PAC-Bayesian Theory](https://bguedj.github.io/nips2017/pdf/laviolette_nips2017.pdf)
+
+    François Laviolette
+
+  - [Some recent advances on Approximate Bayesian Computation techniques](https://bguedj.github.io/nips2017/pdf/marin_nips2017.pdf)
+
+    Jean-Michel Marin
+
+  - [A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks](https://bguedj.github.io/nips2017/pdf/neyshabur_nips2017.pdf)
+  
+    Behnam Neyshabur
+
+  - [Deep Neural Networks: From Flat Minima to Numerically Nonvacuous Generalization Bounds via PAC-Bayes](https://bguedj.github.io/nips2017/pdf/roy_nips2017.pdf)
+
+    Dan Roy
+ 
+ - [A Strongly Quasiconvex PAC-Bayesian Bound](https://bguedj.github.io/nips2017/pdf/seldin_nips2017.pdf)
+  
+    Yevgeny Seldin
+
+  - [Distribution Dependent Priors for Stable Learning](https://bguedj.github.io/nips2017/pdf/shawe-taylor_nips2017.pdf)
+
+    John Shawe-Taylor
+
 ## Symposiums
 
 - ### [Interpretable Machine Learning](http://interpretable.ml/)
@@ -438,9 +560,68 @@ Check out [Deep Hunt](https://www.deephunt.in) - a curated monthly AI newsletter
     Ben Van Roy
 
     Slides · Video
+  
   - Artificial Intelligence Goes All-In
     
     Michael Bowling    
+
+- ### [Kinds of intelligence: types, tests and meeting the needs of society](http://www.kindsofintelligence.org/)
+    
+  José Hernández-Orallo · Zoubin Ghahramani · Tomaso A Poggio · Adrian Weller · Matthew Crosby
+
+  - Opening remarks
+    
+    [Slides](https://intelligence.webs.upv.es/slides/NIPS-symposium-opening.pdf)
+
+  - Why the mind evolved: the evolution of navigation in real landscapes
+    
+    Lucia Jacob
+
+    Slides · Video
+
+  - The distinctive intelligence of young children: Insights for AI from cognitive development
+    
+    Alison Gopnik
+
+    [Slides](https://intelligence.webs.upv.es/slides/Gopnik-NIPS.pptx)
+
+  - Learning from first principles
+    
+    Demis Hassabis
+
+    Slides · Video
+  
+  - Types of intelligence: why human-like AI is important
+    
+    Josh Tenenbaum   
+
+  - The road to artificial general intelligence
+    
+    Gary Marcus
+
+    [Slides](https://intelligence.webs.upv.es/slides/Gopnik-NIPS.pptx)
+
+  - Video games and the road to collaborative AI
+    
+    Katja Hofmann
+
+    [Slides](https://intelligence.webs.upv.es/slides/2017-12-07-Katja-Hofmann-symposium-kinds-of-intelligence.pdf) · Video
+  
+  - Fair questions
+    
+    Cynthia Dwork
+
+    [Slides](https://intelligence.webs.upv.es/slides/NIPS2017-Dwork.pdf)
+ 
+  - States, corporations, thinking machines: artificial agency and artificial intelligence
+    
+    David Runciman
+
+    Slides · Video
+  
+  - Closing remarks
+    
+    [Slides](https://intelligence.webs.upv.es/slides/NIPS-symposium-closing.pdf)  
 
 ## WiML
 
